@@ -38,6 +38,10 @@ a {
   margin-bottom: 20px;
 }
 
+.navbar-brand{
+  height:20px
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
